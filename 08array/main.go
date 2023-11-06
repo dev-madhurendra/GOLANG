@@ -32,6 +32,7 @@ func main() {
 	length, err := cStoI(lengthStr)
 
 	// Create a slice to store the user's input values
+	// var numbers []int64
 	numbers := make([]int64, length)
 
 	if err != nil {
@@ -50,6 +51,7 @@ func main() {
 		}
 
 		numbers[i] = element
+		// numbers = append(numbers, element)
 	}
 
 	// Print the resulting slice

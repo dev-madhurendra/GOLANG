@@ -1,0 +1,10 @@
+go 1.21.3
+
+// use ./01hello
+// use ./02variables
+// use ./03userinput
+// use ./04conversion
+// use ./06time
+// use ./07pointer
+use ./08array
+
