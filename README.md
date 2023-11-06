@@ -7,3 +7,5 @@
 - [Time](https://github.com/dev-madhurendra/go/tree/main/06time)
 - [Pointer](https://github.com/dev-madhurendra/go/tree/main/07pointer)
 - [Array](https://github.com/dev-madhurendra/go/tree/main/08array)
+- [Slice](https://github.com/dev-madhurendra/go/tree/main/08slice)
+- [Condition](https://github.com/dev-madhurendra/go/tree/main/08condition)
