@@ -22,6 +22,9 @@ func main() {
 
 	fmt.Println("List of fruits : ", fruits)
 
+	var vegetables = [3]string{"Potato", "Tomato", "Lady finger"}
+	fmt.Println("List of vegetables : ", vegetables)
+
 	// Create a bufio.Reader to read from standard input (os.Stdin)
 	reader := bufio.NewReader(os.Stdin)
 
