@@ -13,3 +13,5 @@
 - [Map](https://github.com/dev-madhurendra/go/tree/main/11map)
 - [Struct](https://github.com/dev-madhurendra/go/tree/main/12struct)
 - [Loop](https://github.com/dev-madhurendra/go/tree/main/13loop)
+- [Function](https://github.com/dev-madhurendra/go/tree/main/14functions)
+- [Method](https://github.com/dev-madhurendra/go/tree/main/15method)
