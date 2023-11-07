@@ -12,4 +12,7 @@ go 1.21.3
 // use ./11map
 // use ./12struct
 // use ./05math/01randomnumber
-use ./13loop
+// use ./13loop
+// use ./14functions
+// use ./15method
+use ./16defer
