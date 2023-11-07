@@ -6,5 +6,10 @@ go 1.21.3
 // use ./04conversion
 // use ./06time
 // use ./07pointer
-use ./08array
-
+// use ./08array
+// use ./09slice
+// use ./10condition
+// use ./11map
+// use ./12struct
+// use ./05math/01randomnumber
+use ./13loop
